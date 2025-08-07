@@ -3,7 +3,7 @@
 
 <pre>
 Welcome to the Python Development Internship Program!
-    You are required to complete any 2 out of 3 levels (Level 1, 2, or 3). These levels are designed to <br> suit your schedule and make the learning journey engaging and rewarding.
+    You are required to complete any 2 out of 3 levels (Level 1, 2, or 3). These levels are designed to suit your schedule and make the learning journey engaging and rewarding.
 
     Note: Completing any one task from Level 3 can improve your chances of receiving a stipend.
     <h3>Now, let's get started with the tasks!</h3>
