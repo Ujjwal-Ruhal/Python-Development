@@ -13,5 +13,5 @@ Welcome to the Python Development Internship Program!
     Create a Python function that takes a string as input and returns the reverse of
     that string .
     Eg. if the input is "hello" the function should return "olleh". <br>
-    [Task 1 – String Reversal](Level_1/task_1.py)
     </pre>
+[Task 1 – String Reversal](Level_1/task_1.py)
