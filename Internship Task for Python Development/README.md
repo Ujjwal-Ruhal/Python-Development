@@ -14,4 +14,4 @@ Welcome to the Python Development Internship Program!
     that string .
     Eg. if the input is "hello" the function should return "olleh".</pre>
  [Task 1 – String Reversal](Level_1/task_1.py)
-[task 1](Internship Task for Python Development/Level_1/task_1.py)
+[task 1](Internship Task for Python Development/Level_1/task_1.py).
