@@ -15,7 +15,7 @@ that string .
 Eg. if the input is "hello" the function should return "olleh".
 </pre>
 <pre><h3>Task-2: Temperature Conversion</h3>
-Create a Python program that converts temperatures between " Celsius and Fehrenheit ". Prompt the user to enter a temperature value and the unit of measurement , and then display the converted temperature.
+Create a Python program that converts temperatures between " Celsius and Fehrenheit ". Prompt the user to enter a temperature value and <br/>the unit of measurement , and then display the converted temperature.
 Eg. A simple Python program to convert temperatures between Celsius and Fahrenheit.  
 The user inputs a temperature and the program displays the converted value.
 </pre>
