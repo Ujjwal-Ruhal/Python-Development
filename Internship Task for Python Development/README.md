@@ -19,3 +19,9 @@ Create a Python program that converts temperatures between " Celsius and Fehrenh
 Eg. A simple Python program to convert temperatures between Celsius and Fahrenheit.  
 The user inputs a temperature and the program displays the converted value.
 </pre>
+
+<pre><h3>Task-3: Email Validator</h3>
+ Develop a Python function that validates whether a given string is a valid email address. Implement checks for the format, including the presence of an "@" symbol and a domain name
+ Eg. ujjwal@gmail.com --> valid emailId , test@.com --> Invalid emailId
+ like that...
+</pre>
