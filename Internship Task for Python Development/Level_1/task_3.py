@@ -29,7 +29,7 @@ emails = [
     "Ujjwalruhal@gmail.com",
     "Udit001@gmail.com",
     "user@.com",
-    "noatsymbol.com",
+    "123text.com",
     "user@domain.co.in"
 ]
 
