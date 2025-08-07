@@ -1,4 +1,4 @@
-<h1>Cognifyz ( Internship for Python Development )</h1>
+<h1 color:red>Cognifyz ( Internship for Python Development )</h1>
 <h2> Python Development - Task List </h2>
 
 <pre>
