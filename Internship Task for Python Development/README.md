@@ -14,6 +14,7 @@ Create a Python function that takes a string as input and returns the reverse of
 that string .
 Eg. if the input is "hello" the function should return "olleh".
 </pre>
+
 <pre><h3>Task-2: Temperature Conversion</h3>
 Create a Python program that converts temperatures between " Celsius and Fehrenheit ". Prompt the user to enter a temperature value and <br/>the unit of measurement , and then display the converted temperature.
 Eg. A simple Python program to convert temperatures between Celsius and Fahrenheit.  
@@ -21,7 +22,13 @@ The user inputs a temperature and the program displays the converted value.
 </pre>
 
 <pre><h3>Task-3: Email Validator</h3>
- Develop a Python function that validates whether a given string is a valid email address. Implement checks for the format, <br/> including the presence of an "@" symbol and a domain name
- Eg. ujjwal@gmail.com --> valid emailId , test@.com --> Invalid emailId
- like that...
+Develop a Python function that validates whether a given string is a valid email address. Implement checks for the format, <br/> including the presence of an "@" symbol and a domain name
+Eg. ujjwal@gmail.com --> valid emailId , test@.com --> Invalid emailId
+like that...
+</pre>
+
+<pre><h3>Task-4: Calculator Program</h3>
+Create a Python program that acts as a basic calculator. It should prompt the user to enter two numbers and an operator (+, -, *, /, %), and then display the result of the operation.
+Eg. A simple Python calculator that performs basic arithmetic operations: addition, subtraction, multiplication, division, and modulus.
+It prompts the user for two numbers and an operator, then displays the calculated result.
 </pre>
