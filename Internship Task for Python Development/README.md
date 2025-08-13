@@ -61,3 +61,16 @@ The player repeatedly guesses the number, receiving feedback such as "Too high" 
 When the correct number is guessed, the program congratulates the player and displays the total number of attempts taken.
 like that...
 </pre>
+
+<pre><h3>Task-3: Password Strength Checker</h3>
+Create a Python function that evaluates the strength of a password entered by the user. Implement checks for factors such as length, presence of uppercase and lowercase letters, digits, and special characters.
+** Checks five factors: ** 
+-> Length ≥ 8
+-> Contains uppercase
+-> Contains lowercase
+-> Contains digit
+-> Contains special character (from string.punctuation)
+-> Counts how many checks are passed.
+Classifies the password as Weak, Moderate, or Strong.
+like that...
+</pre>
