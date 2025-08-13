@@ -32,3 +32,11 @@ Create a Python program that acts as a basic calculator. It should prompt the us
 Eg. A simple Python calculator that performs basic arithmetic operations: addition, subtraction, multiplication, division, and modulus.
 It prompts the user for two numbers and an operator, then displays the calculated result.
 </pre>
+
+<pre><h3>Task-5: Palindrome Checker</h3>
+ Write a Python function that checks whether a given string is a palindrome. A palindrome is a word, phrase, or sequence that reads the same backward as forward (e.g., "madam" or "racecar")
+This Python program defines a function is_palindrome(text) that checks if a given string is a palindrome.
+It first converts the string to lowercase, removes spaces, and then compares it with its reversed version.
+If both are the same, it returns True; otherwise, False.
+like that...
+</pre>
