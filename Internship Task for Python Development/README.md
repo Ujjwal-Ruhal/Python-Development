@@ -52,3 +52,12 @@ After each guess, the program tells the player if the guess is too high or too l
 When the correct number is guessed, the game congratulates the player and displays the total number of attempts taken.
 like that...
 </pre>
+
+<pre><h3>Task-2: Number Guesser</h3>
+Create a number guessing game where the program generates a random number between a specified range, and the user tries to guess it. Provide feedback to the user if their guess is too high or too low.
+This Python program allows the user to play a number guessing game within a range they choose.
+The user first enters a lower and upper limit, and the program randomly selects a number in that range.
+The player repeatedly guesses the number, receiving feedback such as "Too high" or "Too low" after each attempt.
+When the correct number is guessed, the program congratulates the player and displays the total number of attempts taken.
+like that...
+</pre>
