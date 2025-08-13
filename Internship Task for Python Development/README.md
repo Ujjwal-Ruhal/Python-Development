@@ -40,3 +40,15 @@ It first converts the string to lowercase, removes spaces, and then compares it 
 If both are the same, it returns True; otherwise, False.
 like that...
 </pre>
+
+<h1>Level-2</h1>
+
+<pre><h3>Task-1: Guessing Game</h3>
+Write a Python program that generates a random number between 1 and 100. The user should then try to guess the number.
+The program should provide hints such as "too high" or "too low" until the correct number is guessed.
+This Python program is an interactive number guessing game.
+The computer randomly selects a number between 1 and 100, and the player tries to guess it.
+After each guess, the program tells the player if the guess is too high or too low, encouraging them to try again.
+When the correct number is guessed, the game congratulates the player and displays the total number of attempts taken.
+like that...
+</pre>
