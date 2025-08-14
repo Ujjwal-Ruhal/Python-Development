@@ -99,5 +99,5 @@ Develop a web scraper that extracts specific data from websites using libraries 
 This task will improve their knowledge of web scraping techniques and handling HTML/XML data.
 This Python script uses requests to fetch a webpage and BeautifulSoup to parse its HTML. It extracts specific elements based on a given HTML tag and optional class name, cleans their text, and displays the results. 
 The example demonstrates scraping quotes from quotes.toscrape.com. 
-("[Quotes](https://quotes.toscrape.com/)") 
+[Quotes](https://quotes.toscrape.com/).
 </pre>
