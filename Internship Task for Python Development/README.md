@@ -91,3 +91,13 @@ It then counts how many times each word appears using a dictionary and displays 
 If the file does not exist, it shows an error message instead of crashing.
 like that...
 </pre>
+
+<h1>Level-3</h1>
+
+<pre><h3>Task : Build a Web Scraper</h3>
+Develop a web scraper that extracts specific data from websites using libraries like BeautifulSoup or Scrapy. 
+This task will improve their knowledge of web scraping techniques and handling HTML/XML data.
+This Python script uses requests to fetch a webpage and BeautifulSoup to parse its HTML. It extracts specific elements based on a given HTML tag and optional class name, cleans their text, and displays the results. 
+The example demonstrates scraping quotes from quotes.toscrape.com. 
+("[Quotes](https://quotes.toscrape.com/)") 
+</pre>
