@@ -31,3 +31,5 @@ while True:
     # If user enters an invalid option
     else:
         print("Please choose a correct option (1 or 2)")
+
+# like that...
