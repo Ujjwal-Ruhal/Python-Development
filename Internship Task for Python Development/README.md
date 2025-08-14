@@ -74,3 +74,11 @@ Create a Python function that evaluates the strength of a password entered by th
 Classifies the password as Weak, Moderate, or Strong.
 like that...
 </pre>
+
+<pre><h3>Task-4: Fibonacci Sequence</h3>
+Write a Python function that generates the Fibonacci sequence up to a given number of terms. 
+The function should take an integer input from the user and display the Fibonacci sequence up to that number of terms.
+This Python program generates the Fibonacci sequence for a user-specified number of terms. 
+It starts with [0, 1], then calculates each new term by adding the previous two. Special cases (n ≤ 2) are handled separately to prevent errors, and the complete sequence is printed for the given term count.
+like that...
+</pre>
