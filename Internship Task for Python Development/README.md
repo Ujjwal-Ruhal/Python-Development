@@ -82,3 +82,12 @@ This Python program generates the Fibonacci sequence for a user-specified number
 It starts with [0, 1], then calculates each new term by adding the previous two. Special cases (n ≤ 2) are handled separately to prevent errors, and the complete sequence is printed for the given term count.
 like that...
 </pre>
+
+<pre><h3>Task-5: File Manipulation</h3>
+Write a Python program that reads a text file and counts the occurrences of each word in the file. 
+Display the results in alphabetical order along with their respective counts.
+This Python program reads a text file, removes punctuation, and converts all words to lowercase for uniform counting. 
+It then counts how many times each word appears using a dictionary and displays the results in alphabetical order. 
+If the file does not exist, it shows an error message instead of crashing.
+like that...
+</pre>
